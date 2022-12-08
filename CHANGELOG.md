@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.2](https://github.com/WDaan/VueTorrent/compare/v1.0.1...v1.0.2) (2022-12-08)
+
+
+### Bug Fixes
+
+* general fixes and README update ([#562](https://github.com/WDaan/VueTorrent/issues/562)) ([8b6caf0](https://github.com/WDaan/VueTorrent/commit/8b6caf03359128581077471ce1d80d1308f1a2b6))
+
 ### [1.0.1](https://github.com/WDaan/VueTorrent/compare/v1.0.0...v1.0.1) (2022-11-25)
 
 
